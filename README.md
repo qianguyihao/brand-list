@@ -9,13 +9,13 @@
 
 - 这是一份**对美好生活产生向往、传递生活美学**的好物清单。
 
-- 我们倡导**在惜物和节约的前提下**过一种好的生活。
+- 本文倡导**在惜物和节约的前提下**过更好的生活。
 
 - 内容丰富多样，涉及生活的方方面面。
 
 ### 初衷
 
-我在某知名电商公司工作四年多了，对消费品牌、生活指南等方面一直很感兴趣。虽然我的工作是写代码，不是做运营，但如何让自己和身边的朋友生活过得好一些？如何在有限的预算内，享受到更优质的服务，是我持续关注的话题。
+我在某知名电商公司工作四年多了，对消费品牌、生活指南等方面一直很感兴趣。虽然我的工作是写代码，不是做运营，但如何让自己和身边的朋友生活过得好一些，如何在有限的预算内享受更优质的服务，是我持续关注的话题。
 
 
 本文推荐的品牌，纯属个人喜好，无任何广告成分。排序有先后，顺序越靠前的我越推荐。
@@ -36,7 +36,7 @@
 
 ### 咖啡
 
-- 三顿半：精品速溶咖啡。
+- 精品速溶咖啡：**三顿半**。相关书籍：《[详谈：吴骏](https://book.douban.com/subject/35909999/)》
 
 
 ### 罐头
@@ -135,7 +135,7 @@
 - 精致证件照、照相馆：[天真蓝](https://www.naiveblue.com/)、[海马体](http://www.haimati.cn/#/)
 
 
-## 服饰&运动
+## 服饰&运动装
 
 ### 运动装
 
@@ -145,7 +145,24 @@
 
 - HOKA ONE ONE（法国品牌，简称 HOKA）。[#](https://www.dedao.cn/knowledge/note/detail?id=q5bw6jAgEnwP2oEP0yXD084rdZ0kom) [#](https://web.okjike.com/originalPost/5fe4a6c0d9622d0018404ac0)
 
-- ASICS 亚瑟士（日本品牌）。[#](https://web.okjike.com/originalPost/62ba4c590d31b3f7d12e84c5) [#](https://www.dedao.cn/knowledge/note/detail?id=mraN9vxjG1gOVOKWeYwl61KO0W2Xgy)
+- ASICS 亚瑟士（日本品牌）。耐克的风格是不断出新款，但ASICS会一直迭代同一款鞋，而且ASICS不请代言人，把钱都花在产品研发上，很好穿）。[#](https://web.okjike.com/originalPost/62ba4c590d31b3f7d12e84c5) [#](https://www.dedao.cn/knowledge/note/detail?id=mraN9vxjG1gOVOKWeYwl61KO0W2Xgy)
 
 - Mizuno 美津浓（日本品牌；每年的销量有下滑趋势）。
 
+### 户外品牌
+
+- **Patagonia 巴塔哥尼亚**：主营户外服装，而且是世界顶级户外奢侈品牌，堪称美国户外品牌中的 GUCCI（备注：GUCCI 意大利的时装奢饰品牌）。相关书籍：《[冲浪板上的公司：巴塔哥尼亚的创业哲学](https://book.douban.com/subject/26986362/)》。
+
+
+
+## 球类
+
+
+
+### 羽毛球
+
+- Yonex 尤尼克斯
+
+### 网球
+
+- Wilson威尔胜
