@@ -19,8 +19,6 @@
 
 本文推荐的品牌，纯属个人喜好，无任何广告成分。排序有先后，顺序越靠前的我越推荐。
 
-> 以下内容，冒号前面是品牌类型，冒号后面是品牌名称。
-
 ## 美食
 
 
@@ -30,6 +28,10 @@
 - 意面：**空刻**
 
 ### 罐头
+
+- 真心
+
+- 林家铺子
 
 ### 预制菜
 
@@ -307,9 +309,19 @@
 
 ### 运动装
 
+- **Patagonia 巴塔哥尼亚**：户外运动品牌，主营户外服装；而且是世界顶级户外奢侈品牌，堪称美国户外品牌中的 GUCCI（备注：GUCCI 意大利的时装奢饰品牌）。相关书籍推荐：《[冲浪板上的公司：巴塔哥尼亚的创业哲学](https://book.douban.com/subject/26986362/)》。
+
 - Under Armour 安德玛（美国品牌）。
 
 - 迪卡侬（低价，性价比高）。
+
+### 跑鞋
+
+- HOKA ONE ONE（法国品牌，简称 HOKA）。[#](https://www.dedao.cn/knowledge/note/detail?id=q5bw6jAgEnwP2oEP0yXD084rdZ0kom) [#](https://web.okjike.com/originalPost/5fe4a6c0d9622d0018404ac0)
+
+- ASICS 亚瑟士（日本品牌）。耐克的风格是不断出新款，但ASICS会一直迭代同一款鞋，而且ASICS不请代言人，把钱都花在产品研发上，很好穿）。[#](https://web.okjike.com/originalPost/62ba4c590d31b3f7d12e84c5) [#](https://www.dedao.cn/knowledge/note/detail?id=mraN9vxjG1gOVOKWeYwl61KO0W2Xgy)
+
+- Mizuno 美津浓（日本品牌；每年的销量有下滑趋势）。
 
 ### 羽绒服
 
@@ -320,25 +332,16 @@
 ### 内衣&内裤（女士为主）
 
 - 内外
+
 - Ubras
 
 ### 内衣&内裤（男女均可）
 
 - 蕉内
 
+### 雨伞
 
-
-### 跑鞋
-
-- HOKA ONE ONE（法国品牌，简称 HOKA）。[#](https://www.dedao.cn/knowledge/note/detail?id=q5bw6jAgEnwP2oEP0yXD084rdZ0kom) [#](https://web.okjike.com/originalPost/5fe4a6c0d9622d0018404ac0)
-
-- ASICS 亚瑟士（日本品牌）。耐克的风格是不断出新款，但ASICS会一直迭代同一款鞋，而且ASICS不请代言人，把钱都花在产品研发上，很好穿）。[#](https://web.okjike.com/originalPost/62ba4c590d31b3f7d12e84c5) [#](https://www.dedao.cn/knowledge/note/detail?id=mraN9vxjG1gOVOKWeYwl61KO0W2Xgy)
-
-- Mizuno 美津浓（日本品牌；每年的销量有下滑趋势）。
-
-### 户外品牌
-
-- **Patagonia 巴塔哥尼亚**：主营户外服装，而且是世界顶级户外奢侈品牌，堪称美国户外品牌中的 GUCCI（备注：GUCCI 意大利的时装奢饰品牌）。相关书籍：《[冲浪板上的公司：巴塔哥尼亚的创业哲学](https://book.douban.com/subject/26986362/)》。
+- 蕉下
 
 
 ### 四件套
